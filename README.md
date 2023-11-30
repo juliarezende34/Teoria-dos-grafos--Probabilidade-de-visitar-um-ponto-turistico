@@ -6,7 +6,7 @@ análise usando grafos e PageRank</b></h1>
 ![Linguagem](https://img.shields.io/badge/Linguagem-Python-blue)
 </div>
 Para executar o programa, baixe o Jupyter Notebook <b>grafosCodigo.ipynb</b> e abra-o na sua IDE de preferência.<br>
-Link para o artigo científico do projeto: <a>https://www.overleaf.com/read/rckrtxghbcvc#09fbd1</a><br><br>
+Link para o artigo científico do projeto: <a href= https://www.overleaf.com/read/rckrtxghbcvc#09fbd1>https://www.overleaf.com/read/rckrtxghbcvc#09fbd1</a><br><br>
 
 
  <p align="justify"> Julia Rezende Gomes Rocha</p>
